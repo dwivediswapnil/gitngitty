@@ -1,4 +1,1 @@
-
-### Git and Github tutorials
-##Swapnil Dwivedi
-
+#Git Practice
