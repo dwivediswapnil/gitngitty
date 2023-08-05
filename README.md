@@ -1,4 +1,4 @@
 
 ### Git and Github tutorials
-##Swapnil
+##Swapnil Dwivedi
 
