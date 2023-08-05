@@ -8,6 +8,8 @@ def sum(a,b):
 def multiplication(a,b):
     return a*b
 
+def stringify(a):
+    print(a)
 
 def lol(a,b):
     return lol
